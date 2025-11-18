@@ -1,1 +1,1 @@
-# javascript1
+# JavaScript_Class
